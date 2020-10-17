@@ -2,7 +2,7 @@
 
 [![visit](https://img.shields.io/badge/visit-online-green)](https://mealsuggest.net)
 
-## What's BuddyList
+## What's MealSuggest
 
 I’ve created MealSuggest to help people who struggle to decide what to cook 👨‍🍳 today, tomorrow, or next week!
 
