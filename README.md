@@ -1,4 +1,5 @@
 # MealSuggest
+Weekly meal plans with handy recipes.
 
 [![visit](https://img.shields.io/badge/visit-online-green)](https://mealsuggest.net)
 
